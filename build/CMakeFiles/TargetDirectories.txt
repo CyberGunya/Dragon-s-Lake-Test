@@ -1,0 +1,6 @@
+/Users/gunya/Desktop/2022_Serhii_test/build/CMakeFiles/Game.dir
+/Users/gunya/Desktop/2022_Serhii_test/build/CMakeFiles/edit_cache.dir
+/Users/gunya/Desktop/2022_Serhii_test/build/CMakeFiles/rebuild_cache.dir
+/Users/gunya/Desktop/2022_Serhii_test/build/Framework/CMakeFiles/FrameworkRelease.dir
+/Users/gunya/Desktop/2022_Serhii_test/build/Framework/CMakeFiles/edit_cache.dir
+/Users/gunya/Desktop/2022_Serhii_test/build/Framework/CMakeFiles/rebuild_cache.dir
